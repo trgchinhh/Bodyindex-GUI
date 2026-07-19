@@ -1,0 +1,12 @@
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmForm1.resources
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\C Sharp\Hoc-Winform\Form1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
